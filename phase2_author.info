@@ -1,0 +1,5 @@
+name = Phase2 Author
+description = Provides content modeling and creation enhancements.
+core = 7.x
+package = Phase2
+
