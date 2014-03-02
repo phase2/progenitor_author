@@ -1,7 +1,8 @@
-# Phase2 Author
+# Progenitor Author
 
 This Stack module provides a recipe for an improved content modeling and
-authoring experience.
+authoring experience. Read more about the [Progenitor initiative for Code
+Reuse](https://wiki.phase2technology.com/display/Deliver/Code+Reuse).
 
 ## Use Cases
 
