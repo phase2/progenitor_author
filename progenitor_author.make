@@ -15,7 +15,7 @@ projects[link][version] = 1.2
 
 projects[scheduler][type] = module
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.1
+projects[scheduler][version] = 1.2
 
 projects[date][type] = module
 projects[date][subdir] = contrib
