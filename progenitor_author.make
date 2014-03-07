@@ -10,7 +10,7 @@ projects[references][subdir] = contrib
 projects[references][version] = 2.1
 
 projects[link][type] = module
-projects[link][subidr] = contrib
+projects[link][subdir] = contrib
 projects[link][version] = 1.2
 
 projects[scheduler][type] = module
