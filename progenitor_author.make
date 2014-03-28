@@ -5,9 +5,9 @@ projects[references_dialog][type] = module
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.0-alpha4
 
-projects[references][type] = module
-projects[references][subdir] = contrib
-projects[references][version] = 2.1
+projects[entityreference][type] = module
+projects[entityreference][subdir] = contrib
+projects[entityreference][version] = 1.1
 
 projects[link][type] = module
 projects[link][subdir] = contrib
