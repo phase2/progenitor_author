@@ -20,3 +20,14 @@ projects[scheduler][version] = 1.2
 projects[date][type] = module
 projects[date][subdir] = contrib
 projects[date][version] = 2.7
+
+; Reference Option Limit
+projects[reference_option_limit][version] = 1.x-dev
+projects[reference_option_limit][subdir] = contrib
+projects[reference_option_limit][download][type] = git
+projects[reference_option_limit][download][branch] = 7.x-1.x
+projects[reference_option_limit][download][revision] = 0ea5303
+; Provides Organic Groups integration.
+projects[reference_option_limit][patch][1986532] = http://drupal.org/files/1986532_reference_option_limit_og-5.patch
+; Allow one field to affect multiple other fields.
+projects[reference_option_limit][patch][1986526] = http://drupal.org/files/1986526_reference_option_limit_12.patch
