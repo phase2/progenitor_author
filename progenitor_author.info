@@ -3,3 +3,9 @@ description = Provides content modeling and creation enhancements.
 core = 7.x
 package = Progenitor
 
+dependencies[] = date
+dependencies[] = date_views
+dependencies[] = date_popup_authored
+dependencies[] = entityreference
+dependencies[] = references_dialog
+dependencies[] = link
