@@ -21,6 +21,10 @@ projects[date][type] = module
 projects[date][subdir] = contrib
 projects[date][version] = 2.7
 
+; Improved the "Authored on" date field on node forms.
+projects[date_popup_authored][version] = 1.1
+projects[date_popup_authored][subdir] = contrib
+
 ; Reference Option Limit
 projects[reference_option_limit][version] = 1.x-dev
 projects[reference_option_limit][subdir] = contrib
