@@ -3,7 +3,7 @@ core = 7.x
 
 projects[references_dialog][type] = module
 projects[references_dialog][subdir] = contrib
-projects[references_dialog][version] = 1.0-alpha4
+projects[references_dialog][version] = 1.0-beta1
 
 projects[entityreference][type] = module
 projects[entityreference][subdir] = contrib
@@ -21,7 +21,11 @@ projects[date][type] = module
 projects[date][subdir] = contrib
 projects[date][version] = 2.7
 
-; Improved the "Authored on" date field on node forms.
+projects[save_draft][type] = module
+projects[save_draft][subdir] = contrib
+projects[save_draft][version] = 1.4
+
+; Improve the "Authored on" date field on node forms.
 projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][subdir] = contrib
 
