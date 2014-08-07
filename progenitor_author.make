@@ -19,7 +19,7 @@ projects[scheduler][version] = 1.2
 
 projects[date][type] = module
 projects[date][subdir] = contrib
-projects[date][version] = 2.7
+projects[date][version] = 2.9-alpha1
 
 projects[save_draft][type] = module
 projects[save_draft][subdir] = contrib
