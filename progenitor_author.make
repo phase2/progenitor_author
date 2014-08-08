@@ -25,6 +25,10 @@ projects[save_draft][type] = module
 projects[save_draft][subdir] = contrib
 projects[save_draft][version] = 1.4
 
+projects[field_group][type] = module
+projects[field_group][subdir] = contrib
+projects[field_group][version] = 1.4
+
 ; Improve the "Authored on" date field on node forms.
 projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][subdir] = contrib
