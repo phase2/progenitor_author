@@ -9,3 +9,4 @@ dependencies[] = date_popup_authored
 dependencies[] = entityreference
 dependencies[] = references_dialog
 dependencies[] = link
+dependencies[] = field_group
