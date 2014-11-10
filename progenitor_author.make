@@ -19,7 +19,8 @@ projects[scheduler][version] = 1.2
 
 projects[date][type] = module
 projects[date][subdir] = contrib
-projects[date][version] = 2.9-alpha2
+projects[date][version] = 2.9-beta1
+projects[date][patch][2333533] = https://www.drupal.org/files/issues/2333533-date-popup-undefined-2.patch
 
 projects[save_draft][type] = module
 projects[save_draft][subdir] = contrib
