@@ -3,7 +3,12 @@ core = 7.x
 
 projects[references_dialog][type] = module
 projects[references_dialog][subdir] = contrib
-projects[references_dialog][version] = 1.0-beta1
+projects[references_dialog][version] = 1.x-dev
+projects[references_dialog][download][type] = git
+projects[references_dialog][download][branch] = 7.x-1.x
+projects[references_dialog][download][revision] = 746a40d
+; Fix theme links fatal error.
+projects[references_dialog][patch][2315905] = https://www.drupal.org/files/issues/references_dialog_fix_theme_links-2315905-5.patch.patch
 
 projects[entityreference][type] = module
 projects[entityreference][subdir] = contrib
