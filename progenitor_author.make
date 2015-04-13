@@ -24,8 +24,7 @@ projects[scheduler][version] = 1.2
 
 projects[date][type] = module
 projects[date][subdir] = contrib
-projects[date][version] = 2.9-beta1
-projects[date][patch][2333533] = https://www.drupal.org/files/issues/2333533-date-popup-undefined-2.patch
+projects[date][version] = 2.9-rc1
 
 projects[save_draft][type] = module
 projects[save_draft][subdir] = contrib
@@ -36,7 +35,7 @@ projects[field_group][subdir] = contrib
 projects[field_group][version] = 1.4
 
 ; Improve the "Authored on" date field on node forms.
-projects[date_popup_authored][version] = 1.1
+projects[date_popup_authored][version] = 1.2
 projects[date_popup_authored][subdir] = contrib
 
 ; Reference Option Limit
